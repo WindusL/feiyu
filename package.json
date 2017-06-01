@@ -1,0 +1,18 @@
+{
+    "name": "feiyu",
+    "description": "飞鱼餐饮管理平台",
+    "keywords": [
+        "飞鱼",
+        "feiyu"
+    ],
+    "authors": "Windus",
+    "version": "1.0.0",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "electron": "1.6.10"
+    }
+}
